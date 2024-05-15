@@ -1,3 +1,5 @@
+[![DOI](https://sandbox.zenodo.org/badge/772559793.svg)](https://sandbox.zenodo.org/doi/10.5072/zenodo.55337)
+
 # Planet-based snow cover and SWE reconstruction scripts
 
 ### This repository contains python scripts used to perform 1) snow cover estimates from PlanetScope commercial satellite imagery, and 2) SWE reconstructions based on snow cover and snowmelt rates from snow pillows. These scripts correspond to Pflug et al., (2024) [insert link], and are listed in the order necessary to produce SWE reconstructions. Scripts include the following:
