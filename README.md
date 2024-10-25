@@ -1,4 +1,4 @@
-[![DOI](https://sandbox.zenodo.org/badge/772559793.svg)](https://sandbox.zenodo.org/doi/10.5072/zenodo.55337)
+[![DOI](https://zenodo.org/badge/772559793.svg)](https://doi.org/10.5281/zenodo.13994054)
 
 # Planet-based snow cover and SWE reconstruction scripts
 
